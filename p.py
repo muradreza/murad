@@ -6,7 +6,7 @@ lent=1
   
 
 
-for i in range(3):
+for i in range(1000):
    st=str(i)
    tx=".txt"
    a="bcdfghjklmnpqrstvwxz"
